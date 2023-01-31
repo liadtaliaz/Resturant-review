@@ -1,0 +1,31 @@
+﻿body {
+}
+.title {
+    font-size: xx-large;
+    text-align: center;
+    background-color: darkgreen;
+    font-family: David;
+}
+
+.menu {
+    font-size: large;
+    vertical-align: top;
+    background-color: darkgreen;
+    font-family: David;
+}
+
+.description {
+    text-align: center;
+    font-size: large;
+    font-family: David;
+    background-image: url('pictures/resturan2.0.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.credits {
+    font-size: large;
+    font-family: David;
+    background-color: darkgreen;
+}
